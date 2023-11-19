@@ -1,0 +1,33 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.formDivCenter {
+  @apply mr-auto ml-auto w-full;
+}
+
+.formDivCenter > .formTitle,
+.titleDivCenter {
+  @apply w-full max-w-md mr-auto ml-auto mt-4 mb-2 text-center;
+}
+
+.formDivCenter > .formTitle > .title,
+.titleDivCenter > .title {
+  @apply text-gray-800 block text-3xl;
+}
+
+.formDivCenter > .formBody {
+  @apply w-full max-w-md mr-auto ml-auto mt-4;
+}
+
+.navLink {
+  @apply ml-1 text-indigo-300 cursor-pointer hover:opacity-80;
+}
+
+.product-description {
+  overflow: hidden;
+  display: -webkit-box;
+  -webkit-line-clamp: 1; /* number of lines to show */
+  line-clamp: 1;
+  -webkit-box-orient: vertical;
+}
