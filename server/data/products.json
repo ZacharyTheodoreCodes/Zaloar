@@ -1,0 +1,182 @@
+[
+  {
+    "name": "Kaos Rick & Morty",
+    "description": "This is a Kaos Rick & Morty.",
+    "price": 10000,
+    "stock": 10,
+    "imgUrl": "https://d29c1z66frfv6c.cloudfront.net/pub/media/catalog/product/large/34062797456a6d2877388c5ff8d68f96c149c770_xxl-1.jpg",
+    "categoryId": 1,
+    "authorId": 1
+  },
+  {
+    "name": "Kemeja Putih",
+    "description": "This is a Kemeja Putih.",
+    "price": 10000,
+    "stock": 10,
+    "imgUrl": "https://d29c1z66frfv6c.cloudfront.net/pub/media/catalog/product/large/c3402400d26fa70e43827caaf0da0128bc23c00b_xxl-1.jpg",
+    "categoryId": 1,
+    "authorId": 2
+  },
+  {
+    "name": "Jacket Hoodie",
+    "description": "This is a Jacket Hoodie.",
+    "price": 10000,
+    "stock": 10,
+    "imgUrl": "https://d29c1z66frfv6c.cloudfront.net/pub/media/catalog/product/large/5a43ad521a825f92f7ceb87b6ec2ec96ec8ba3e6_xxl-1.jpg",
+    "categoryId": 1,
+    "authorId": 3
+  },
+  {
+    "name": "Celana Panjang Krem",
+    "description": "This is a Celana Panjang Krem.",
+    "price": 10000,
+    "stock": 10,
+    "imgUrl": "https://d29c1z66frfv6c.cloudfront.net/pub/media/catalog/product/large/c67ffb7f51dcf3f4e2edb0110bd16bd15f7c3e76_xxl-1.jpg",
+    "categoryId": 2,
+    "authorId": 3
+  },
+  {
+    "name": "Celana Pendek Olive",
+    "description": "This is a Celana Pendek Olive.",
+    "price": 10000,
+    "stock": 10,
+    "imgUrl": "https://d29c1z66frfv6c.cloudfront.net/pub/media/catalog/product/large/029786e79e57fb31cf820d8b52b9188892410269_xxl-1.jpg",
+    "categoryId": 2,
+    "authorId": 3
+  },
+  {
+    "name": "Cotton Shirt",
+    "description": "Comfortable cotton shirt for everyday wear.",
+    "price": 19999,
+    "stock": 50,
+    "imgUrl": "https://d29c1z66frfv6c.cloudfront.net/pub/media/catalog/product/large/937e6d0daf662a31ff1e9965d2accad1d71a4149_xxl-1.jpg",
+    "categoryId": 1,
+    "authorId": 1
+  },
+  {
+    "name": "Denim Jeans",
+    "description": "Classic denim jeans for a stylish look.",
+    "price": 39999,
+    "stock": 30,
+    "imgUrl": "https://d29c1z66frfv6c.cloudfront.net/pub/media/catalog/product/large/f4035de7f76733cb1bf129e8085435f9dfb3a119_xxl-1.jpg",
+    "categoryId": 2,
+    "authorId": 2
+  },
+  {
+    "name": "Black Hoodie",
+    "description": "Warm and cozy hoodie for colder days.",
+    "price": 29999,
+    "stock": 40,
+    "imgUrl": "https://hm-media-prod.s3.amazonaws.com/pub/media/catalog/product/medium/da17b5d0c0a47fad269cb9c3e9edc9c9f2996af0_xxl-1.jpg",
+    "categoryId": 1,
+    "authorId": 3
+  },
+  {
+    "name": "Leather Jacket",
+    "description": "Stylish leather jacket for a cool vibe.",
+    "price": 79999,
+    "stock": 15,
+    "imgUrl": "https://d29c1z66frfv6c.cloudfront.net/pub/media/catalog/product/large/5c332c15c382ca4aeeada197b063eef6e5f0745a_xxl-1.jpg",
+    "categoryId": 1,
+    "authorId": 1
+  },
+  {
+    "name": "Formal Blouse",
+    "description": "Elegant formal blouse for professional occasions.",
+    "price": 34999,
+    "stock": 35,
+    "imgUrl": "https://d29c1z66frfv6c.cloudfront.net/pub/media/catalog/product/large/ec671f22cde56775d053bc6f6a5c53b58306b256_xxl-1.jpg",
+    "categoryId": 1,
+    "authorId": 2
+  },
+  {
+    "name": "Cargo Pants",
+    "description": "Functional cargo pants with multiple pockets.",
+    "price": 44999,
+    "stock": 28,
+    "imgUrl": "https://d29c1z66frfv6c.cloudfront.net/pub/media/catalog/product/large/f1076409e2d357111557348768315eeb78cb8231_xxl-1.jpg",
+    "categoryId": 2,
+    "authorId": 3
+  },
+  {
+    "name": "Running Shoes",
+    "description": "Comfortable running shoes for athletes.",
+    "price": 59999,
+    "stock": 25,
+    "imgUrl": "https://d29c1z66frfv6c.cloudfront.net/pub/media/catalog/product/large/3b90c1280463e0d401ae9660d645b3c1c2d46e1a_xxl-1.jpg",
+    "categoryId": 3,
+    "authorId": 4
+  },
+  {
+    "name": "Sneakers",
+    "description": "Trendy sneakers for a casual and sporty look.",
+    "price": 44999,
+    "stock": 30,
+    "imgUrl": "https://d29c1z66frfv6c.cloudfront.net/pub/media/catalog/product/large/da2f49f7381a13c3ee18b5b5c6f5d2cad83e1250_xxl-1.jpg",
+    "categoryId": 3,
+    "authorId": 3
+  },
+  {
+    "name": "Formal Shoes",
+    "description": "Elegant formal shoes for special occasions.",
+    "price": 79999,
+    "stock": 15,
+    "imgUrl": "https://d29c1z66frfv6c.cloudfront.net/pub/media/catalog/product/large/0dabf9bd597d1d527315821040e4f75c667b0e9a_xxl-1.jpg",
+    "categoryId": 3,
+    "authorId": 1
+  },
+  {
+    "name": "Sandals",
+    "description": "Casual and comfortable sandals for everyday wear.",
+    "price": 24999,
+    "stock": 40,
+    "imgUrl": "https://d29c1z66frfv6c.cloudfront.net/pub/media/catalog/product/large/fd92be5a0d841d3291bc506e9dfcb0c098551a8a_xxl-1.jpg",
+    "categoryId": 3,
+    "authorId": 2
+  },
+  {
+    "name": "Black Hoodie",
+    "description": "Warm and cozy hoodie for colder days.",
+    "price": 29999,
+    "stock": 40,
+    "imgUrl": "https://hm-media-prod.s3.amazonaws.com/pub/media/catalog/product/medium/da17b5d0c0a47fad269cb9c3e9edc9c9f2996af0_xxl-1.jpg",
+    "categoryId": 1,
+    "authorId": 3
+  },
+  {
+    "name": "Black Hoodie",
+    "description": "Warm and cozy hoodie for colder days.",
+    "price": 29999,
+    "stock": 40,
+    "imgUrl": "https://hm-media-prod.s3.amazonaws.com/pub/media/catalog/product/medium/da17b5d0c0a47fad269cb9c3e9edc9c9f2996af0_xxl-1.jpg",
+    "categoryId": 1,
+    "authorId": 3
+  },
+  {
+    "name": "Formal Blouse",
+    "description": "Elegant formal blouse for professional occasions.",
+    "price": 34999,
+    "stock": 35,
+    "imgUrl": "https://d29c1z66frfv6c.cloudfront.net/pub/media/catalog/product/large/ec671f22cde56775d053bc6f6a5c53b58306b256_xxl-1.jpg",
+    "categoryId": 1,
+    "authorId": 2
+  },
+  {
+    "name": "Leather Jacket",
+    "description": "Stylish leather jacket for a cool vibe.",
+    "price": 79999,
+    "stock": 15,
+    "imgUrl": "https://d29c1z66frfv6c.cloudfront.net/pub/media/catalog/product/large/5c332c15c382ca4aeeada197b063eef6e5f0745a_xxl-1.jpg",
+    "categoryId": 1,
+    "authorId": 4
+  },
+  {
+    "name": "Cargo Pants",
+    "description": "Functional cargo pants with multiple pockets.",
+    "price": 44999,
+    "stock": 28,
+    "imgUrl": "https://d29c1z66frfv6c.cloudfront.net/pub/media/catalog/product/large/f1076409e2d357111557348768315eeb78cb8231_xxl-1.jpg",
+    "categoryId": 2,
+    "authorId": 3
+  }
+]
