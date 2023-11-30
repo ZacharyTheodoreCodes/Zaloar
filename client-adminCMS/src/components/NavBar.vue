@@ -7,7 +7,7 @@
   >
     <div class="relative flex justify-between h-16">
       <div class="flex-1 flex items-center justify-center text-2xl text-white">
-        Clothing CMS
+        Zaloar - CMS
       </div>
     </div>
   </nav>

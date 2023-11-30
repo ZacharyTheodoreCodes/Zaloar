@@ -14,7 +14,7 @@ export default {
   },
   data() {
     return {
-      baseUrl: "https://retailcms.zacharytheodore.site",
+      baseUrl: "http://localhost:3000",
       currentPage: "login",
       authenticated: false,
       errors: [],
@@ -93,7 +93,7 @@ export default {
             token_google: loginData.credential,
           },
         });
-
+        console.log(result);
         const { access_token, username, email, role } = result.data;
         localStorage.access_token = access_token;
         localStorage.username = username;

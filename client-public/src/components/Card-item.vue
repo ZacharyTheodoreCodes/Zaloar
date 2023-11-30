@@ -44,10 +44,10 @@ export default {
         <div class="flex gap-4">
           <h1 class="font-bold text-xl col-start-1 col-span-5">{{ product.name }}</h1>
           <span
-        class="items-center bg-indigo-200 rounded-lg px-2 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2"
-      >
-        #{{ product.Category.name }}</span
-      >
+            class="self-start items-center bg-indigo-200 rounded-lg px-2 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2"
+          >
+            #{{ product.Category.name }}</span
+          >
         </div>
         <button class="hover:opacity-60" v-if="authenticated">
           <i
@@ -66,9 +66,8 @@ export default {
       <p class="text-gray-700 text-base product-description">{{ product.description }}</p>
     </div>
     <div class="pb-4 text-gray-800 block text-[16px] font-bold">
-     &nbsp;Rp {{ formattedPrice(product.price) }}
+      &nbsp;Rp {{ formattedPrice(product.price) }}
     </div>
- 
   </div>
 </template>
 
